@@ -4,4 +4,3 @@ learn git
 adopt a child
 be nice
 change the world
-have a nice day
