@@ -1,0 +1,49 @@
+[33mcommit 7cab34635eb0b427abe7b4a3090b26b616e85f84[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kovacs Luca <vsas010@gmail.com>
+Date:   Thu Mar 21 14:03:06 2019 +0100
+
+    m3
+
+[33mcommit 466ff4c76922aa2b4ac2887e95d70e3f7fcaf119[m
+Author: Kovacs Luca <vsas010@gmail.com>
+Date:   Thu Mar 21 14:02:36 2019 +0100
+
+    m2
+
+[33mcommit 2c19a52df98e61140545ab9447413d4167f02542[m
+Author: Kovacs Luca <vsas010@gmail.com>
+Date:   Thu Mar 21 14:01:54 2019 +0100
+
+    m1
+
+[33mcommit a08af3ec2f4cba9542405a9fce6958b1af0e313d[m
+Author: Kovacs Luca <vsas010@gmail.com>
+Date:   Thu Mar 21 13:28:50 2019 +0100
+
+    Revert "Update README.md"
+    
+    This reverts commit 00da02c24f4aa1f240e66365b912f6ae39818cc2.
+
+[33mcommit 00da02c24f4aa1f240e66365b912f6ae39818cc2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luca232323 <48790699+luca232323@users.noreply.github.com>
+Date:   Thu Mar 21 11:52:49 2019 +0100
+
+    Update README.md
+
+[33mcommit 49c2d1601b8fc16d9a37f8231d462a10db6eedcf[m
+Author: Kovacs Luca <vsas010@gmail.com>
+Date:   Thu Mar 21 11:30:29 2019 +0100
+
+    Feat: new task has been added.
+
+[33mcommit 65325d209759028c39db41260b0a6f793a018e2c[m
+Author: luca232323 <48790699+luca232323@users.noreply.github.com>
+Date:   Thu Mar 21 11:22:50 2019 +0100
+
+    Update README.md
+
+[33mcommit f1cf1398496ace98c6388393f6800d55436a5ae7[m
+Author: luca232323 <48790699+luca232323@users.noreply.github.com>
+Date:   Thu Mar 21 11:12:34 2019 +0100
+
+    Initial commit
